@@ -1,5 +1,6 @@
 # Power-BI--Grocery-chain
  Entire business intelligence workflow on multinational grocery chain.
+ 
 Project created during a course on Microsoft Power BI Desktop for Business Intelligence.
 
 Project presenting business intelligence workflow: 
